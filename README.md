@@ -65,14 +65,23 @@ Fully Connected + Softmax
 ## Features Implemented
 
 ✓ Convolution Operation (Manual 2D convolution)
+
 ✓ ReLU Activation Function
+
 ✓ Max Pooling Layer
+
 ✓ Softmax Classifier
+
 ✓ Forward Propagation
+
 ✓ Backpropagation with Gradient Descent
+
 ✓ Cross-Entropy Loss
+
 ✓ Accuracy Calculation
+
 ✓ Epoch vs Accuracy Graph
+
 ✓ Epoch vs Loss Graph
 
 ---
