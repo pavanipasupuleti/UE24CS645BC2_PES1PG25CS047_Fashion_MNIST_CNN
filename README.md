@@ -14,7 +14,7 @@ The CNN consists of:
 
 ---
 
-## Dataset   
+## Dataset
 
 ### Fashion-MNIST
 
@@ -164,10 +164,6 @@ Final Loss: 0.3169
 - Shows reduction in cross-entropy loss during training
 - Observed Trend: Steady decrease from 0.7529 to 0.3169
 - File: `epoch_vs_loss.png`
-
-### 3. Combined Training Progress
-- Side-by-side visualization of loss and accuracy trends
-- File: `training_progress_combined.png`
 
 ---
 
