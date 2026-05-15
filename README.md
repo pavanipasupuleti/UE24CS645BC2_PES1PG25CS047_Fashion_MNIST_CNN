@@ -14,7 +14,7 @@ The CNN consists of:
 
 ---
 
-## Dataset   
+## Dataset
 
 ### Fashion-MNIST
 
@@ -65,14 +65,23 @@ Fully Connected + Softmax
 ## Features Implemented
 
 ✓ Convolution Operation (Manual 2D convolution)
+
 ✓ ReLU Activation Function
+
 ✓ Max Pooling Layer
+
 ✓ Softmax Classifier
+
 ✓ Forward Propagation
+
 ✓ Backpropagation with Gradient Descent
+
 ✓ Cross-Entropy Loss
+
 ✓ Accuracy Calculation
+
 ✓ Epoch vs Accuracy Graph
+
 ✓ Epoch vs Loss Graph
 
 ---
@@ -119,7 +128,7 @@ Final Loss: 0.3169
 
 | Epoch | Accuracy | Improvement |
 |-------|----------|-------------|
-| 1 | 74.28% | - |
+| 1 | 74.28% | Starting Point |
 | 2 | 84.50% | +10.22% |
 | 3 | 86.86% | +2.36% |
 | 4 | 88.24% | +1.38% |
@@ -139,7 +148,7 @@ Final Loss: 0.3169
 
 | Epoch | Loss | Reduction |
 |-------|------|-----------|
-| 1 | 0.7529 | - |
+| 1 | 0.7529 | Starting Point | 
 | 2 | 0.4651 | -38.2% |
 | 3 | 0.3942 | -15.2% |
 | 4 | 0.3502 | -11.1% |
@@ -164,10 +173,6 @@ Final Loss: 0.3169
 - Shows reduction in cross-entropy loss during training
 - Observed Trend: Steady decrease from 0.7529 to 0.3169
 - File: `epoch_vs_loss.png`
-
-### 3. Combined Training Progress
-- Side-by-side visualization of loss and accuracy trends
-- File: `training_progress_combined.png`
 
 ---
 
